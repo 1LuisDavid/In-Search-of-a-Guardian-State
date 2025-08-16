@@ -1,0 +1,418 @@
+ccode;cname;year;ccode_qog;cname_qog;ccodealp;ccodecow;cname_year;ccodealp_year;wvs_confcs
+8,00;Albania;1998;8;Albania;ALB;339,00;Albania 1998;ALB98;1,99
+8,00;Albania;2002;8;Albania;ALB;339,00;Albania 2002;ALB02;2,20
+8,00;Albania;2008;8;Albania;ALB;339,00;Albania 2008;ALB08;2,34
+8,00;Albania;2018;8;Albania;ALB;339,00;Albania 2018;ALB18;2,16
+12,00;Algeria;2002;12;Algeria;DZA;615,00;Algeria 2002;DZA02;2,61
+12,00;Algeria;2014;12;Algeria;DZA;615,00;Algeria 2014;DZA14;2,26
+20,00;Andorra;2005;20;Andorra;AND;232,00;Andorra 2005;AND05;2,26
+20,00;Andorra;2018;20;Andorra;AND;232,00;Andorra 2018;AND18;2,51
+31,00;Azerbaijan;1997;31;Azerbaijan;AZE;373,00;Azerbaijan 1997;AZE97;2,33
+31,00;Azerbaijan;2011;31;Azerbaijan;AZE;373,00;Azerbaijan 2011;AZE11;2,67
+31,00;Azerbaijan;2018;31;Azerbaijan;AZE;373,00;Azerbaijan 2018;AZE18;2,92
+32,00;Argentina;1984;32;Argentina;ARG;160,00;Argentina 1984;ARG84;2,50
+32,00;Argentina;1991;32;Argentina;ARG;160,00;Argentina 1991;ARG91;1,57
+32,00;Argentina;1995;32;Argentina;ARG;160,00;Argentina 1995;ARG95;1,60
+32,00;Argentina;1999;32;Argentina;ARG;160,00;Argentina 1999;ARG99;1,57
+32,00;Argentina;2006;32;Argentina;ARG;160,00;Argentina 2006;ARG06;1,66
+32,00;Argentina;2013;32;Argentina;ARG;160,00;Argentina 2013;ARG13;1,87
+32,00;Argentina;2017;32;Argentina;ARG;160,00;Argentina 2017;ARG17;1,86
+36,00;Australia;1981;36;Australia;AUS;900,00;Australia 1981;AUS81;2,46
+36,00;Australia;1995;36;Australia;AUS;900,00;Australia 1995;AUS95;2,31
+36,00;Australia;2005;36;Australia;AUS;900,00;Australia 2005;AUS05;2,34
+36,00;Australia;2012;36;Australia;AUS;900,00;Australia 2012;AUS12;2,41
+36,00;Australia;2018;36;Australia;AUS;900,00;Australia 2018;AUS18;2,47
+40,00;Austria;1990;40;Austria;AUT;305,00;Austria 1990;AUT90;2,39
+40,00;Austria;1999;40;Austria;AUT;305,00;Austria 1999;AUT99;2,41
+40,00;Austria;2008;40;Austria;AUT;305,00;Austria 2008;AUT08;2,36
+40,00;Austria;2018;40;Austria;AUT;305,00;Austria 2018;AUT18;2,62
+50,00;Bangladesh;1996;50;Bangladesh;BGD;771,00;Bangladesh 1996;BGD96;3,12
+50,00;Bangladesh;2002;50;Bangladesh;BGD;771,00;Bangladesh 2002;BGD02;3,54
+50,00;Bangladesh;2018;50;Bangladesh;BGD;771,00;Bangladesh 2018;BGD18;2,88
+51,00;Armenia;1997;51;Armenia;ARM;371,00;Armenia 1997;ARM97;2,17
+51,00;Armenia;2008;51;Armenia;ARM;371,00;Armenia 2008;ARM08;2,29
+51,00;Armenia;2011;51;Armenia;ARM;371,00;Armenia 2011;ARM11;2,14
+51,00;Armenia;2018;51;Armenia;ARM;371,00;Armenia 2018;ARM18;2,13
+51,00;Armenia;2021;51;Armenia;ARM;371,00;Armenia 2021;ARM21;2,25
+56,00;Belgium;1981;56;Belgium;BEL;211,00;Belgium 1981;BEL81;2,36
+56,00;Belgium;1990;56;Belgium;BEL;211,00;Belgium 1990;BEL90;2,32
+56,00;Belgium;1999;56;Belgium;BEL;211,00;Belgium 1999;BEL99;2,33
+56,00;Belgium;2009;56;Belgium;BEL;211,00;Belgium 2009;BEL09;2,54
+68,00;Bolivia (Plurinational State of);2017;68;Bolivia;BOL;145,00;Bolivia 2017;BOL17;1,81
+70,00;Bosnia and Herzegovina;1998;70;Bosnia and Herzegovina;BIH;346,00;Bosnia and Herzegovina 1998;BIH98;2,65
+70,00;Bosnia and Herzegovina;2001;70;Bosnia and Herzegovina;BIH;346,00;Bosnia and Herzegovina 2001;BIH01;2,17
+70,00;Bosnia and Herzegovina;2008;70;Bosnia and Herzegovina;BIH;346,00;Bosnia and Herzegovina 2008;BIH08;2,25
+70,00;Bosnia and Herzegovina;2019;70;Bosnia and Herzegovina;BIH;346,00;Bosnia and Herzegovina 2019;BIH19;2,13
+76,00;Brazil;1991;76;Brazil;BRA;140,00;Brazil 1991;BRA91;2,41
+76,00;Brazil;1997;76;Brazil;BRA;140,00;Brazil 1997;BRA97;2,54
+76,00;Brazil;2006;76;Brazil;BRA;140,00;Brazil 2006;BRA06;2,46
+76,00;Brazil;2014;76;Brazil;BRA;140,00;Brazil 2014;BRA14;2,37
+76,00;Brazil;2018;76;Brazil;BRA;140,00;Brazil 2018;BRA18;2,35
+100,00;Bulgaria;1991;100;Bulgaria;BGR;355,00;Bulgaria 1991;BGR91;2,14
+100,00;Bulgaria;1997;100;Bulgaria;BGR;355,00;Bulgaria 1997;BGR97;2,42
+100,00;Bulgaria;1999;100;Bulgaria;BGR;355,00;Bulgaria 1999;BGR99;2,02
+100,00;Bulgaria;2006;100;Bulgaria;BGR;355,00;Bulgaria 2006;BGR06;2,27
+100,00;Bulgaria;2008;100;Bulgaria;BGR;355,00;Bulgaria 2008;BGR08;1,85
+100,00;Bulgaria;2017;100;Bulgaria;BGR;355,00;Bulgaria 2017;BGR17;2,02
+104,00;Myanmar;2020;104;Myanmar;MMR;775,00;Myanmar 2020;MMR20;2,94
+112,00;Belarus;1996;112;Belarus;BLR;370,00;Belarus 1996;BLR96;2,48
+112,00;Belarus;2000;112;Belarus;BLR;370,00;Belarus 2000;BLR00;1,95
+112,00;Belarus;2008;112;Belarus;BLR;370,00;Belarus 2008;BLR08;2,29
+112,00;Belarus;2011;112;Belarus;BLR;370,00;Belarus 2011;BLR11;2,71
+112,00;Belarus;2018;112;Belarus;BLR;370,00;Belarus 2018;BLR18;2,16
+124,00;Canada;1982;124;Canada;CAN;20,00;Canada 1982;CAN82;2,50
+124,00;Canada;1990;124;Canada;CAN;20,00;Canada 1990;CAN90;2,49
+124,00;Canada;2000;124;Canada;CAN;20,00;Canada 2000;CAN00;2,49
+124,00;Canada;2006;124;Canada;CAN;20,00;Canada 2006;CAN06;2,53
+124,00;Canada;2020;124;Canada;CAN;20,00;Canada 2020;CAN20;2,56
+152,00;Chile;1990;152;Chile;CHL;155,00;Chile 1990;CHL90;2,59
+152,00;Chile;1996;152;Chile;CHL;155,00;Chile 1996;CHL96;2,33
+152,00;Chile;2000;152;Chile;CHL;155,00;Chile 2000;CHL00;2,29
+152,00;Chile;2006;152;Chile;CHL;155,00;Chile 2006;CHL06;2,16
+152,00;Chile;2012;152;Chile;CHL;155,00;Chile 2012;CHL12;2,14
+152,00;Chile;2018;152;Chile;CHL;155,00;Chile 2018;CHL18;2,16
+156,00;China;1990;156;China;CHN;710,00;China 1990;CHN90;2,67
+156,00;China;2001;156;China;CHN;710,00;China 2001;CHN01;2,73
+156,00;China;2007;156;China;CHN;710,00;China 2007;CHN07;3,12
+156,00;China;2013;156;China;CHN;710,00;China 2013;CHN13;2,96
+156,00;China;2018;156;China;CHN;710,00;China 2018;CHN18;3,11
+158,00;Taiwan (Province of China);1998;158;Taiwan;TWN;713,00;Taiwan 1998;TWN98;2,61
+158,00;Taiwan (Province of China);2006;158;Taiwan;TWN;713,00;Taiwan 2006;TWN06;2,33
+158,00;Taiwan (Province of China);2012;158;Taiwan;TWN;713,00;Taiwan 2012;TWN12;2,62
+158,00;Taiwan (Province of China);2019;158;Taiwan;TWN;713,00;Taiwan 2019;TWN19;2,67
+170,00;Colombia;1997;170;Colombia;COL;100,00;Colombia 1997;COL97;2,14
+170,00;Colombia;1998;170;Colombia;COL;100,00;Colombia 1998;COL98;2,01
+170,00;Colombia;2005;170;Colombia;COL;100,00;Colombia 2005;COL05;2,07
+170,00;Colombia;2012;170;Colombia;COL;100,00;Colombia 2012;COL12;1,87
+170,00;Colombia;2018;170;Colombia;COL;100,00;Colombia 2018;COL18;1,79
+191,00;Croatia;1996;191;Croatia;HRV;344,00;Croatia 1996;HRV96;2,32
+191,00;Croatia;1999;191;Croatia;HRV;344,00;Croatia 1999;HRV99;2,27
+191,00;Croatia;2008;191;Croatia;HRV;344,00;Croatia 2008;HRV08;2,14
+191,00;Croatia;2017;191;Croatia;HRV;344,00;Croatia 2017;HRV17;2,04
+196,00;Cyprus;2006;196;Cyprus (1975-);CYP;352,00;Cyprus (1975-) 2006;CYP06;2,55
+196,00;Cyprus;2008;196;Cyprus (1975-);CYP;352,00;Cyprus (1975-) 2008;CYP08;2,54
+196,00;Cyprus;2011;196;Cyprus (1975-);CYP;352,00;Cyprus (1975-) 2011;CYP11;2,39
+196,00;Cyprus;2019;196;Cyprus (1975-);CYP;352,00;Cyprus (1975-) 2019;CYP19;2,38
+203,00;Czechia;1998;203;Czech Republic;CZE;316,00;Czech Republic 1998;CZE98;2,24
+203,00;Czechia;1999;203;Czech Republic;CZE;316,00;Czech Republic 1999;CZE99;2,10
+203,00;Czechia;2008;203;Czech Republic;CZE;316,00;Czech Republic 2008;CZE08;2,21
+203,00;Czechia;2017;203;Czech Republic;CZE;316,00;Czech Republic 2017;CZE17;2,21
+203,00;Czechia;2022;203;Czech Republic;CZE;316,00;Czech Republic 2022;CZE22;2,53
+208,00;Denmark;1981;208;Denmark;DNK;390,00;Denmark 1981;DNK81;2,46
+208,00;Denmark;1990;208;Denmark;DNK;390,00;Denmark 1990;DNK90;2,52
+208,00;Denmark;1999;208;Denmark;DNK;390,00;Denmark 1999;DNK99;2,54
+208,00;Denmark;2008;208;Denmark;DNK;390,00;Denmark 2008;DNK08;2,72
+208,00;Denmark;2017;208;Denmark;DNK;390,00;Denmark 2017;DNK17;2,54
+214,00;Dominican Republic (the);1996;214;Dominican Republic;DOM;42,00;Dominican Republic 1996;DOM96;1,75
+218,00;Ecuador;2013;218;Ecuador;ECU;130,00;Ecuador 2013;ECU13;1,90
+218,00;Ecuador;2018;218;Ecuador;ECU;130,00;Ecuador 2018;ECU18;1,66
+231,00;Ethiopia;2007;231;Ethiopia (1993-);ETH;530,00;Ethiopia (1993-) 2007;ETH07;2,19
+231,00;Ethiopia;2020;231;Ethiopia (1993-);ETH;530,00;Ethiopia (1993-) 2020;ETH20;2,59
+233,00;Estonia;1996;233;Estonia;EST;366,00;Estonia 1996;EST96;2,61
+233,00;Estonia;1999;233;Estonia;EST;366,00;Estonia 1999;EST99;2,33
+233,00;Estonia;2008;233;Estonia;EST;366,00;Estonia 2008;EST08;2,58
+233,00;Estonia;2011;233;Estonia;EST;366,00;Estonia 2011;EST11;2,73
+233,00;Estonia;2018;233;Estonia;EST;366,00;Estonia 2018;EST18;2,72
+246,00;Finland;1981;246;Finland;FIN;375,00;Finland 1981;FIN81;2,54
+246,00;Finland;1990;246;Finland;FIN;375,00;Finland 1990;FIN90;2,24
+246,00;Finland;1996;246;Finland;FIN;375,00;Finland 1996;FIN96;2,25
+246,00;Finland;2000;246;Finland;FIN;375,00;Finland 2000;FIN00;2,36
+246,00;Finland;2005;246;Finland;FIN;375,00;Finland 2005;FIN05;2,60
+246,00;Finland;2009;246;Finland;FIN;375,00;Finland 2009;FIN09;2,38
+246,00;Finland;2017;246;Finland;FIN;375,00;Finland 2017;FIN17;2,53
+250,00;France;1981;250;France (1963-);FRA;220,00;France (1963-) 1981;FRA81;2,47
+250,00;France;1990;250;France (1963-);FRA;220,00;France (1963-) 1990;FRA90;2,38
+250,00;France;1999;250;France (1963-);FRA;220,00;France (1963-) 1999;FRA99;2,33
+250,00;France;2006;250;France (1963-);FRA;220,00;France (1963-) 2006;FRA06;2,46
+250,00;France;2008;250;France (1963-);FRA;220,00;France (1963-) 2008;FRA08;2,59
+250,00;France;2018;250;France (1963-);FRA;220,00;France (1963-) 2018;FRA18;2,46
+268,00;Georgia;1996;268;Georgia;GEO;372,00;Georgia 1996;GEO96;2,48
+268,00;Georgia;2008;268;Georgia;GEO;372,00;Georgia 2008;GEO08;2,47
+268,00;Georgia;2009;268;Georgia;GEO;372,00;Georgia 2009;GEO09;2,30
+268,00;Georgia;2014;268;Georgia;GEO;372,00;Georgia 2014;GEO14;2,43
+268,00;Georgia;2018;268;Georgia;GEO;372,00;Georgia 2018;GEO18;2,59
+276,00;Germany;1997;276;Germany;DEU;255,00;Germany 1997;DEU97;2,39
+276,00;Germany;1999;276;Germany;DEU;255,00;Germany 1999;DEU99;2,30
+276,00;Germany;2006;276;Germany;DEU;255,00;Germany 2006;DEU06;2,18
+276,00;Germany;2008;276;Germany;DEU;255,00;Germany 2008;DEU08;2,25
+276,00;Germany;2013;276;Germany;DEU;255,00;Germany 2013;DEU13;2,55
+276,00;Germany;2017;276;Germany;DEU;255,00;Germany 2017;DEU17;2,55
+276,00;Germany;2018;276;Germany;DEU;255,00;Germany 2018;DEU18;2,67
+;Germany;1981;280;Germany, West;DEU;;Germany, West 1981;DEU81;2,29
+;Germany;1990;280;Germany, West;DEU;;Germany, West 1990;DEU90;2,25
+288,00;Ghana;2007;288;Ghana;GHA;452,00;Ghana 2007;GHA07;2,75
+288,00;Ghana;2012;288;Ghana;GHA;452,00;Ghana 2012;GHA12;2,82
+300,00;Greece;1999;300;Greece;GRC;350,00;Greece 1999;GRC99;1,78
+300,00;Greece;2008;300;Greece;GRC;350,00;Greece 2008;GRC08;2,02
+300,00;Greece;2017;300;Greece;GRC;350,00;Greece 2017;GRC17;2,35
+320,00;Guatemala;2004;320;Guatemala;GTM;90,00;Guatemala 2004;GTM04;1,72
+320,00;Guatemala;2020;320;Guatemala;GTM;90,00;Guatemala 2020;GTM20;1,64
+332,00;Haiti;2016;332;Haiti;HTI;41,00;Haiti 2016;HTI16;1,51
+348,00;Hungary;1982;348;Hungary;HUN;310,00;Hungary 1982;HUN82;2,99
+348,00;Hungary;1991;348;Hungary;HUN;310,00;Hungary 1991;HUN91;2,45
+348,00;Hungary;1998;348;Hungary;HUN;310,00;Hungary 1998;HUN98;2,51
+348,00;Hungary;1999;348;Hungary;HUN;310,00;Hungary 1999;HUN99;2,42
+348,00;Hungary;2008;348;Hungary;HUN;310,00;Hungary 2008;HUN08;2,31
+348,00;Hungary;2009;348;Hungary;HUN;310,00;Hungary 2009;HUN09;2,31
+348,00;Hungary;2018;348;Hungary;HUN;310,00;Hungary 2018;HUN18;2,55
+352,00;Iceland;1984;352;Iceland;ISL;395,00;Iceland 1984;ISL84;2,45
+352,00;Iceland;1990;352;Iceland;ISL;395,00;Iceland 1990;ISL90;2,45
+352,00;Iceland;1999;352;Iceland;ISL;395,00;Iceland 1999;ISL99;2,58
+352,00;Iceland;2009;352;Iceland;ISL;395,00;Iceland 2009;ISL09;2,62
+352,00;Iceland;2017;352;Iceland;ISL;395,00;Iceland 2017;ISL17;2,60
+356,00;India;1990;356;India;IND;750,00;India 1990;IND90;2,89
+356,00;India;1995;356;India;IND;750,00;India 1995;IND95;2,78
+356,00;India;2001;356;India;IND;750,00;India 2001;IND01;2,46
+356,00;India;2006;356;India;IND;750,00;India 2006;IND06;2,63
+356,00;India;2012;356;India;IND;750,00;India 2012;IND12;2,75
+356,00;India;2023;356;India;IND;750,00;India 2023;IND23;3,12
+360,00;Indonesia;2001;360;Indonesia;IDN;850,00;Indonesia 2001;IDN01;2,64
+360,00;Indonesia;2006;360;Indonesia;IDN;850,00;Indonesia 2006;IDN06;2,58
+360,00;Indonesia;2018;360;Indonesia;IDN;850,00;Indonesia 2018;IDN18;2,95
+364,00;Iran (Islamic Republic of);2000;364;Iran;IRN;630,00;Iran 2000;IRN00;2,37
+364,00;Iran (Islamic Republic of);2007;364;Iran;IRN;630,00;Iran 2007;IRN07;2,32
+364,00;Iran (Islamic Republic of);2020;364;Iran;IRN;630,00;Iran 2020;IRN20;2,80
+368,00;Iraq;2013;368;Iraq;IRQ;645,00;Iraq 2013;IRQ13;1,98
+368,00;Iraq;2018;368;Iraq;IRQ;645,00;Iraq 2018;IRQ18;2,08
+372,00;Ireland;1981;372;Ireland;IRL;205,00;Ireland 1981;IRL81;2,61
+372,00;Ireland;1990;372;Ireland;IRL;205,00;Ireland 1990;IRL90;2,64
+372,00;Ireland;1999;372;Ireland;IRL;205,00;Ireland 1999;IRL99;2,67
+372,00;Ireland;2008;372;Ireland;IRL;205,00;Ireland 2008;IRL08;2,62
+380,00;Italy;1981;380;Italy;ITA;325,00;Italy 1981;ITA81;2,06
+380,00;Italy;1990;380;Italy;ITA;325,00;Italy 1990;ITA90;2,03
+380,00;Italy;1999;380;Italy;ITA;325,00;Italy 1999;ITA99;2,22
+380,00;Italy;2005;380;Italy;ITA;325,00;Italy 2005;ITA05;2,30
+380,00;Italy;2009;380;Italy;ITA;325,00;Italy 2009;ITA09;2,28
+380,00;Italy;2018;380;Italy;ITA;325,00;Italy 2018;ITA18;2,25
+392,00;Japan;1981;392;Japan;JPN;740,00;Japan 1981;JPN81;2,26
+392,00;Japan;1990;392;Japan;JPN;740,00;Japan 1990;JPN90;2,28
+392,00;Japan;1995;392;Japan;JPN;740,00;Japan 1995;JPN95;2,29
+392,00;Japan;2000;392;Japan;JPN;740,00;Japan 2000;JPN00;2,20
+392,00;Japan;2005;392;Japan;JPN;740,00;Japan 2005;JPN05;2,18
+392,00;Japan;2010;392;Japan;JPN;740,00;Japan 2010;JPN10;2,27
+392,00;Japan;2019;392;Japan;JPN;740,00;Japan 2019;JPN19;2,43
+398,00;Kazakhstan;2011;398;Kazakhstan;KAZ;705,00;Kazakhstan 2011;KAZ11;2,79
+398,00;Kazakhstan;2018;398;Kazakhstan;KAZ;705,00;Kazakhstan 2018;KAZ18;2,82
+400,00;Jordan;2001;400;Jordan;JOR;663,00;Jordan 2001;JOR01;2,81
+400,00;Jordan;2007;400;Jordan;JOR;663,00;Jordan 2007;JOR07;2,80
+400,00;Jordan;2014;400;Jordan;JOR;663,00;Jordan 2014;JOR14;2,42
+400,00;Jordan;2018;400;Jordan;JOR;663,00;Jordan 2018;JOR18;2,26
+404,00;Kenya;2021;404;Kenya;KEN;501,00;Kenya 2021;KEN21;2,49
+410,00;Korea (the Republic of);1982;410;Korea, South;KOR;732,00;Korea, South 1982;KOR82;3,34
+410,00;Korea (the Republic of);1990;410;Korea, South;KOR;732,00;Korea, South 1990;KOR90;2,66
+410,00;Korea (the Republic of);1996;410;Korea, South;KOR;732,00;Korea, South 1996;KOR96;2,90
+410,00;Korea (the Republic of);2001;410;Korea, South;KOR;732,00;Korea, South 2001;KOR01;2,67
+410,00;Korea (the Republic of);2005;410;Korea, South;KOR;732,00;Korea, South 2005;KOR05;2,62
+410,00;Korea (the Republic of);2010;410;Korea, South;KOR;732,00;Korea, South 2010;KOR10;2,42
+410,00;Korea (the Republic of);2018;410;Korea, South;KOR;732,00;Korea, South 2018;KOR18;2,56
+414,00;Kuwait;2014;414;Kuwait;KWT;690,00;Kuwait 2014;KWT14;2,67
+417,00;Kyrgyzstan;2003;417;Kyrgyzstan;KGZ;703,00;Kyrgyzstan 2003;KGZ03;2,28
+417,00;Kyrgyzstan;2011;417;Kyrgyzstan;KGZ;703,00;Kyrgyzstan 2011;KGZ11;2,63
+417,00;Kyrgyzstan;2020;417;Kyrgyzstan;KGZ;703,00;Kyrgyzstan 2020;KGZ20;2,57
+422,00;Lebanon;2013;422;Lebanon;LBN;660,00;Lebanon 2013;LBN13;2,19
+422,00;Lebanon;2018;422;Lebanon;LBN;660,00;Lebanon 2018;LBN18;1,77
+428,00;Latvia;1996;428;Latvia;LVA;367,00;Latvia 1996;LVA96;2,35
+428,00;Latvia;1999;428;Latvia;LVA;367,00;Latvia 1999;LVA99;2,41
+428,00;Latvia;2008;428;Latvia;LVA;367,00;Latvia 2008;LVA08;2,54
+428,00;Latvia;2021;428;Latvia;LVA;367,00;Latvia 2021;LVA21;2,63
+434,00;Libya;2014;434;Libya;LBY;620,00;Libya 2014;LBY14;2,47
+434,00;Libya;2022;434;Libya;LBY;620,00;Libya 2022;LBY22;2,23
+440,00;Lithuania;1997;440;Lithuania;LTU;368,00;Lithuania 1997;LTU97;2,36
+440,00;Lithuania;1999;440;Lithuania;LTU;368,00;Lithuania 1999;LTU99;1,99
+440,00;Lithuania;2008;440;Lithuania;LTU;368,00;Lithuania 2008;LTU08;2,26
+440,00;Lithuania;2018;440;Lithuania;LTU;368,00;Lithuania 2018;LTU18;2,42
+442,00;Luxembourg;1999;442;Luxembourg;LUX;212,00;Luxembourg 1999;LUX99;2,60
+442,00;Luxembourg;2008;442;Luxembourg;LUX;212,00;Luxembourg 2008;LUX08;2,78
+458,00;Malaysia;2006;458;Malaysia (1966-);MYS;820,00;Malaysia (1966-) 2006;MYS06;2,78
+458,00;Malaysia;2012;458;Malaysia (1966-);MYS;820,00;Malaysia (1966-) 2012;MYS12;2,90
+458,00;Malaysia;2018;458;Malaysia (1966-);MYS;820,00;Malaysia (1966-) 2018;MYS18;2,67
+462,00;Maldives;2021;462;Maldives;MDV;781,00;Maldives 2021;MDV21;2,40
+466,00;Mali;2007;466;Mali;MLI;432,00;Mali 2007;MLI07;2,77
+470,00;Malta;1983;470;Malta;MLT;338,00;Malta 1983;MLT83;2,73
+470,00;Malta;1991;470;Malta;MLT;338,00;Malta 1991;MLT91;2,35
+470,00;Malta;1999;470;Malta;MLT;338,00;Malta 1999;MLT99;2,40
+470,00;Malta;2008;470;Malta;MLT;338,00;Malta 2008;MLT08;2,57
+484,00;Mexico;1981;484;Mexico;MEX;70,00;Mexico 1981;MEX81;2,01
+484,00;Mexico;1990;484;Mexico;MEX;70,00;Mexico 1990;MEX90;1,98
+484,00;Mexico;1996;484;Mexico;MEX;70,00;Mexico 1996;MEX96;2,23
+484,00;Mexico;2000;484;Mexico;MEX;70,00;Mexico 2000;MEX00;1,85
+484,00;Mexico;2005;484;Mexico;MEX;70,00;Mexico 2005;MEX05;1,91
+484,00;Mexico;2012;484;Mexico;MEX;70,00;Mexico 2012;MEX12;1,82
+484,00;Mexico;2018;484;Mexico;MEX;70,00;Mexico 2018;MEX18;1,64
+496,00;Mongolia;2020;496;Mongolia;MNG;712,00;Mongolia 2020;MNG20;2,36
+498,00;Moldova (the Republic of);1996;498;Moldova;MDA;359,00;Moldova 1996;MDA96;2,51
+498,00;Moldova (the Republic of);2002;498;Moldova;MDA;359,00;Moldova 2002;MDA02;2,39
+498,00;Moldova (the Republic of);2006;498;Moldova;MDA;359,00;Moldova 2006;MDA06;1,84
+498,00;Moldova (the Republic of);2008;498;Moldova;MDA;359,00;Moldova 2008;MDA08;2,30
+499,00;Montenegro;2008;499;Montenegro;MNE;341,00;Montenegro 2008;MNE08;2,48
+499,00;Montenegro;2019;499;Montenegro;MNE;341,00;Montenegro 2019;MNE19;2,28
+504,00;Morocco;2001;504;Morocco;MAR;600,00;Morocco 2001;MAR01;2,24
+504,00;Morocco;2007;504;Morocco;MAR;600,00;Morocco 2007;MAR07;2,52
+504,00;Morocco;2011;504;Morocco;MAR;600,00;Morocco 2011;MAR11;2,50
+504,00;Morocco;2021;504;Morocco;MAR;600,00;Morocco 2021;MAR21;2,22
+528,00;Netherlands (the);1981;528;Netherlands;NLD;210,00;Netherlands 1981;NLD81;2,43
+528,00;Netherlands (the);1990;528;Netherlands;NLD;210,00;Netherlands 1990;NLD90;2,42
+528,00;Netherlands (the);1999;528;Netherlands;NLD;210,00;Netherlands 1999;NLD99;2,32
+528,00;Netherlands (the);2006;528;Netherlands;NLD;210,00;Netherlands 2006;NLD06;2,18
+528,00;Netherlands (the);2008;528;Netherlands;NLD;210,00;Netherlands 2008;NLD08;2,34
+528,00;Netherlands (the);2012;528;Netherlands;NLD;210,00;Netherlands 2012;NLD12;2,27
+528,00;Netherlands (the);2017;528;Netherlands;NLD;210,00;Netherlands 2017;NLD17;2,35
+528,00;Netherlands (the);2022;528;Netherlands;NLD;210,00;Netherlands 2022;NLD22;2,23
+554,00;New Zealand;1998;554;New Zealand;NZL;920,00;New Zealand 1998;NZL98;2,19
+554,00;New Zealand;2004;554;New Zealand;NZL;920,00;New Zealand 2004;NZL04;2,39
+554,00;New Zealand;2011;554;New Zealand;NZL;920,00;New Zealand 2011;NZL11;2,49
+554,00;New Zealand;2020;554;New Zealand;NZL;920,00;New Zealand 2020;NZL20;2,55
+558,00;Nicaragua;2020;558;Nicaragua;NIC;93,00;Nicaragua 2020;NIC20;1,79
+566,00;Nigeria;1990;566;Nigeria;NGA;475,00;Nigeria 1990;NGA90;3,15
+566,00;Nigeria;1995;566;Nigeria;NGA;475,00;Nigeria 1995;NGA95;2,70
+566,00;Nigeria;2000;566;Nigeria;NGA;475,00;Nigeria 2000;NGA00;2,98
+566,00;Nigeria;2012;566;Nigeria;NGA;475,00;Nigeria 2012;NGA12;2,66
+566,00;Nigeria;2018;566;Nigeria;NGA;475,00;Nigeria 2018;NGA18;2,46
+578,00;Norway;1982;578;Norway;NOR;385,00;Norway 1982;NOR82;2,62
+578,00;Norway;1990;578;Norway;NOR;385,00;Norway 1990;NOR90;2,41
+578,00;Norway;1996;578;Norway;NOR;385,00;Norway 1996;NOR96;2,48
+578,00;Norway;2007;578;Norway;NOR;385,00;Norway 2007;NOR07;2,61
+578,00;Norway;2008;578;Norway;NOR;385,00;Norway 2008;NOR08;2,57
+578,00;Norway;2018;578;Norway;NOR;385,00;Norway 2018;NOR18;2,77
+586,00;Pakistan;1997;586;Pakistan (1971-);PAK;770,00;Pakistan (1971-) 1997;PAK97;2,55
+586,00;Pakistan;2001;586;Pakistan (1971-);PAK;770,00;Pakistan (1971-) 2001;PAK01;2,47
+586,00;Pakistan;2012;586;Pakistan (1971-);PAK;770,00;Pakistan (1971-) 2012;PAK12;2,27
+586,00;Pakistan;2018;586;Pakistan (1971-);PAK;770,00;Pakistan (1971-) 2018;PAK18;2,58
+604,00;Peru;1996;604;Peru;PER;135,00;Peru 1996;PER96;1,80
+604,00;Peru;2001;604;Peru;PER;135,00;Peru 2001;PER01;1,84
+604,00;Peru;2006;604;Peru;PER;135,00;Peru 2006;PER06;1,64
+604,00;Peru;2012;604;Peru;PER;135,00;Peru 2012;PER12;1,70
+604,00;Peru;2018;604;Peru;PER;135,00;Peru 2018;PER18;1,44
+608,00;Philippines (the);1996;608;Philippines;PHL;840,00;Philippines 1996;PHL96;2,83
+608,00;Philippines (the);2001;608;Philippines;PHL;840,00;Philippines 2001;PHL01;2,85
+608,00;Philippines (the);2012;608;Philippines;PHL;840,00;Philippines 2012;PHL12;2,78
+608,00;Philippines (the);2019;608;Philippines;PHL;840,00;Philippines 2019;PHL19;2,97
+616,00;Poland;1989;616;Poland;POL;290,00;Poland 1989;POL89;3,07
+616,00;Poland;1990;616;Poland;POL;290,00;Poland 1990;POL90;2,29
+616,00;Poland;1997;616;Poland;POL;290,00;Poland 1997;POL97;2,24
+616,00;Poland;1999;616;Poland;POL;290,00;Poland 1999;POL99;2,22
+616,00;Poland;2005;616;Poland;POL;290,00;Poland 2005;POL05;2,01
+616,00;Poland;2008;616;Poland;POL;290,00;Poland 2008;POL08;2,15
+616,00;Poland;2012;616;Poland;POL;290,00;Poland 2012;POL12;2,03
+616,00;Poland;2017;616;Poland;POL;290,00;Poland 2017;POL17;2,31
+620,00;Portugal;1990;620;Portugal;PRT;235,00;Portugal 1990;PRT90;2,21
+620,00;Portugal;1999;620;Portugal;PRT;235,00;Portugal 1999;PRT99;2,47
+620,00;Portugal;2008;620;Portugal;PRT;235,00;Portugal 2008;PRT08;2,36
+620,00;Portugal;2020;620;Portugal;PRT;235,00;Portugal 2020;PRT20;2,43
+642,00;Romania;1993;642;Romania;ROU;360,00;Romania 1993;ROU93;2,13
+642,00;Romania;1998;642;Romania;ROU;360,00;Romania 1998;ROU98;2,11
+642,00;Romania;1999;642;Romania;ROU;360,00;Romania 1999;ROU99;2,07
+642,00;Romania;2005;642;Romania;ROU;360,00;Romania 2005;ROU05;2,08
+642,00;Romania;2008;642;Romania;ROU;360,00;Romania 2008;ROU08;2,15
+642,00;Romania;2012;642;Romania;ROU;360,00;Romania 2012;ROU12;2,00
+642,00;Romania;2018;642;Romania;ROU;360,00;Romania 2018;ROU18;2,03
+643,00;Russian Federation (the);1995;643;Russia;RUS;365,00;Russia 1995;RUS95;2,41
+643,00;Russian Federation (the);1999;643;Russia;RUS;365,00;Russia 1999;RUS99;2,21
+643,00;Russian Federation (the);2006;643;Russia;RUS;365,00;Russia 2006;RUS06;2,45
+643,00;Russian Federation (the);2008;643;Russia;RUS;365,00;Russia 2008;RUS08;2,50
+643,00;Russian Federation (the);2011;643;Russia;RUS;365,00;Russia 2011;RUS11;2,41
+643,00;Russian Federation (the);2017;643;Russia;RUS;365,00;Russia 2017;RUS17;2,59
+646,00;Rwanda;2007;646;Rwanda;RWA;517,00;Rwanda 2007;RWA07;2,58
+646,00;Rwanda;2012;646;Rwanda;RWA;517,00;Rwanda 2012;RWA12;2,71
+682,00;Saudi Arabia;2003;682;Saudi Arabia;SAU;670,00;Saudi Arabia 2003;SAU03;2,91
+688,00;Serbia;2006;688;Serbia;SRB;;Serbia 2006;SRB06;1,98
+688,00;Serbia;2008;688;Serbia;SRB;;Serbia 2008;SRB08;2,07
+688,00;Serbia;2017;688;Serbia;SRB;;Serbia 2017;SRB17;1,91
+688,00;Serbia;2018;688;Serbia;SRB;;Serbia 2018;SRB18;2,11
+702,00;Singapore;2012;702;Singapore;SGP;830,00;Singapore 2012;SGP12;2,92
+702,00;Singapore;2020;702;Singapore;SGP;830,00;Singapore 2020;SGP20;2,93
+703,00;Slovakia;1998;703;Slovakia;SVK;317,00;Slovakia 1998;SVK98;2,29
+703,00;Slovakia;1999;703;Slovakia;SVK;317,00;Slovakia 1999;SVK99;2,27
+703,00;Slovakia;2008;703;Slovakia;SVK;317,00;Slovakia 2008;SVK08;2,53
+703,00;Slovakia;2017;703;Slovakia;SVK;317,00;Slovakia 2017;SVK17;2,46
+703,00;Slovakia;2022;703;Slovakia;SVK;317,00;Slovakia 2022;SVK22;2,46
+704,00;Viet Nam;2001;704;Vietnam;VNM;816,00;Vietnam 2001;VNM01;3,14
+704,00;Viet Nam;2006;704;Vietnam;VNM;816,00;Vietnam 2006;VNM06;3,37
+704,00;Viet Nam;2020;704;Vietnam;VNM;816,00;Vietnam 2020;VNM20;2,98
+705,00;Slovenia;1992;705;Slovenia;SVN;349,00;Slovenia 1992;SVN92;2,36
+705,00;Slovenia;1995;705;Slovenia;SVN;349,00;Slovenia 1995;SVN95;2,17
+705,00;Slovenia;1999;705;Slovenia;SVN;349,00;Slovenia 1999;SVN99;2,09
+705,00;Slovenia;2005;705;Slovenia;SVN;349,00;Slovenia 2005;SVN05;1,95
+705,00;Slovenia;2008;705;Slovenia;SVN;349,00;Slovenia 2008;SVN08;2,50
+705,00;Slovenia;2011;705;Slovenia;SVN;349,00;Slovenia 2011;SVN11;1,77
+705,00;Slovenia;2017;705;Slovenia;SVN;349,00;Slovenia 2017;SVN17;2,05
+710,00;South Africa;1982;710;South Africa;ZAF;560,00;South Africa 1982;ZAF82;2,45
+710,00;South Africa;1990;710;South Africa;ZAF;560,00;South Africa 1990;ZAF90;2,69
+710,00;South Africa;1996;710;South Africa;ZAF;560,00;South Africa 1996;ZAF96;2,66
+710,00;South Africa;2001;710;South Africa;ZAF;560,00;South Africa 2001;ZAF01;2,63
+710,00;South Africa;2006;710;South Africa;ZAF;560,00;South Africa 2006;ZAF06;2,58
+710,00;South Africa;2013;710;South Africa;ZAF;560,00;South Africa 2013;ZAF13;2,38
+716,00;Zimbabwe;2001;716;Zimbabwe;ZWE;552,00;Zimbabwe 2001;ZWE01;2,66
+716,00;Zimbabwe;2012;716;Zimbabwe;ZWE;552,00;Zimbabwe 2012;ZWE12;2,54
+716,00;Zimbabwe;2020;716;Zimbabwe;ZWE;552,00;Zimbabwe 2020;ZWE20;2,50
+724,00;Spain;1981;724;Spain;ESP;230,00;Spain 1981;ESP81;2,33
+724,00;Spain;1990;724;Spain;ESP;230,00;Spain 1990;ESP90;2,22
+724,00;Spain;1995;724;Spain;ESP;230,00;Spain 1995;ESP95;2,31
+724,00;Spain;1999;724;Spain;ESP;230,00;Spain 1999;ESP99;2,33
+724,00;Spain;2000;724;Spain;ESP;230,00;Spain 2000;ESP00;2,35
+724,00;Spain;2007;724;Spain;ESP;230,00;Spain 2007;ESP07;2,35
+724,00;Spain;2008;724;Spain;ESP;230,00;Spain 2008;ESP08;2,36
+724,00;Spain;2011;724;Spain;ESP;230,00;Spain 2011;ESP11;2,28
+724,00;Spain;2017;724;Spain;ESP;230,00;Spain 2017;ESP17;2,47
+752,00;Sweden;1982;752;Sweden;SWE;380,00;Sweden 1982;SWE82;2,42
+752,00;Sweden;1990;752;Sweden;SWE;380,00;Sweden 1990;SWE90;2,39
+752,00;Sweden;1996;752;Sweden;SWE;380,00;Sweden 1996;SWE96;2,41
+752,00;Sweden;1999;752;Sweden;SWE;380,00;Sweden 1999;SWE99;2,46
+752,00;Sweden;2006;752;Sweden;SWE;380,00;Sweden 2006;SWE06;2,66
+752,00;Sweden;2009;752;Sweden;SWE;380,00;Sweden 2009;SWE09;2,45
+752,00;Sweden;2011;752;Sweden;SWE;380,00;Sweden 2011;SWE11;2,58
+752,00;Sweden;2017;752;Sweden;SWE;380,00;Sweden 2017;SWE17;2,66
+756,00;Switzerland;1996;756;Switzerland;CHE;225,00;Switzerland 1996;CHE96;2,36
+756,00;Switzerland;2007;756;Switzerland;CHE;225,00;Switzerland 2007;CHE07;2,68
+756,00;Switzerland;2008;756;Switzerland;CHE;225,00;Switzerland 2008;CHE08;2,80
+756,00;Switzerland;2017;756;Switzerland;CHE;225,00;Switzerland 2017;CHE17;2,70
+762,00;Tajikistan;2020;762;Tajikistan;TJK;702,00;Tajikistan 2020;TJK20;3,12
+764,00;Thailand;2007;764;Thailand;THA;800,00;Thailand 2007;THA07;2,42
+764,00;Thailand;2013;764;Thailand;THA;800,00;Thailand 2013;THA13;2,65
+764,00;Thailand;2018;764;Thailand;THA;800,00;Thailand 2018;THA18;2,70
+780,00;Trinidad and Tobago;2006;780;Trinidad and Tobago;TTO;52,00;Trinidad and Tobago 2006;TTO06;2,26
+780,00;Trinidad and Tobago;2010;780;Trinidad and Tobago;TTO;52,00;Trinidad and Tobago 2010;TTO10;2,30
+788,00;Tunisia;2013;788;Tunisia;TUN;616,00;Tunisia 2013;TUN13;2,10
+788,00;Tunisia;2019;788;Tunisia;TUN;616,00;Tunisia 2019;TUN19;1,97
+792,00;Turkey;1990;792;Turkey;TUR;640,00;Turkey 1990;TUR90;2,56
+792,00;Turkey;1996;792;Turkey;TUR;640,00;Turkey 1996;TUR96;2,71
+792,00;Turkey;2001;792;Turkey;TUR;640,00;Turkey 2001;TUR01;2,57
+792,00;Turkey;2007;792;Turkey;TUR;640,00;Turkey 2007;TUR07;2,53
+792,00;Turkey;2009;792;Turkey;TUR;640,00;Turkey 2009;TUR09;2,79
+792,00;Turkey;2011;792;Turkey;TUR;640,00;Turkey 2011;TUR11;2,63
+792,00;Turkey;2018;792;Turkey;TUR;640,00;Turkey 2018;TUR18;2,68
+800,00;Uganda;2001;800;Uganda;UGA;500,00;Uganda 2001;UGA01;2,88
+804,00;Ukraine;1996;804;Ukraine;UKR;369,00;Ukraine 1996;UKR96;2,32
+804,00;Ukraine;1999;804;Ukraine;UKR;369,00;Ukraine 1999;UKR99;2,24
+804,00;Ukraine;2006;804;Ukraine;UKR;369,00;Ukraine 2006;UKR06;2,34
+804,00;Ukraine;2008;804;Ukraine;UKR;369,00;Ukraine 2008;UKR08;2,14
+804,00;Ukraine;2011;804;Ukraine;UKR;369,00;Ukraine 2011;UKR11;2,31
+804,00;Ukraine;2020;804;Ukraine;UKR;369,00;Ukraine 2020;UKR20;2,29
+807,00;North Macedonia;1998;807;North Macedonia;MKD;343,00;North Macedonia 1998;MKD98;1,91
+807,00;North Macedonia;2001;807;North Macedonia;MKD;343,00;North Macedonia 2001;MKD01;1,85
+807,00;North Macedonia;2008;807;North Macedonia;MKD;343,00;North Macedonia 2008;MKD08;2,40
+807,00;North Macedonia;2019;807;North Macedonia;MKD;343,00;North Macedonia 2019;MKD19;2,25
+818,00;Egypt;2001;818;Egypt;EGY;651,00;Egypt 2001;EGY01;2,81
+818,00;Egypt;2008;818;Egypt;EGY;651,00;Egypt 2008;EGY08;2,62
+818,00;Egypt;2013;818;Egypt;EGY;651,00;Egypt 2013;EGY13;2,01
+818,00;Egypt;2018;818;Egypt;EGY;651,00;Egypt 2018;EGY18;1,91
+834,00;Tanzania, the United Republic of;2001;834;Tanzania;TZA;510,00;Tanzania 2001;TZA01;2,94
+840,00;United States of America (the);1982;840;United States;USA;2,00;United States 1982;USA82;2,68
+840,00;United States of America (the);1990;840;United States;USA;2,00;United States 1990;USA90;2,66
+840,00;United States of America (the);1995;840;United States;USA;2,00;United States 1995;USA95;2,51
+840,00;United States of America (the);1999;840;United States;USA;2,00;United States 1999;USA99;2,58
+840,00;United States of America (the);2006;840;United States;USA;2,00;United States 2006;USA06;2,37
+840,00;United States of America (the);2011;840;United States;USA;2,00;United States 2011;USA11;2,44
+840,00;United States of America (the);2017;840;United States;USA;2,00;United States 2017;USA17;2,36
+854,00;Burkina Faso;2007;854;Burkina Faso;BFA;439,00;Burkina Faso 2007;BFA07;2,59
+858,00;Uruguay;1996;858;Uruguay;URY;165,00;Uruguay 1996;URY96;2,31
+858,00;Uruguay;2006;858;Uruguay;URY;165,00;Uruguay 2006;URY06;1,83
+858,00;Uruguay;2011;858;Uruguay;URY;165,00;Uruguay 2011;URY11;1,90
+858,00;Uruguay;2022;858;Uruguay;URY;165,00;Uruguay 2022;URY22;2,51
+860,00;Uzbekistan;2011;860;Uzbekistan;UZB;704,00;Uzbekistan 2011;UZB11;3,50
+860,00;Uzbekistan;2022;860;Uzbekistan;UZB;704,00;Uzbekistan 2022;UZB22;3,10
+862,00;Venezuela (Bolivarian Republic of);1996;862;Venezuela;VEN;101,00;Venezuela 1996;VEN96;2,02
+862,00;Venezuela (Bolivarian Republic of);2000;862;Venezuela;VEN;101,00;Venezuela 2000;VEN00;2,17
+862,00;Venezuela (Bolivarian Republic of);2021;862;Venezuela;VEN;101,00;Venezuela 2021;VEN21;1,75
+887,00;Yemen;2014;887;Yemen;YEM;679,00;Yemen 2014;YEM14;1,75
+894,00;Zambia;2007;894;Zambia;ZMB;551,00;Zambia 2007;ZMB07;2,35
